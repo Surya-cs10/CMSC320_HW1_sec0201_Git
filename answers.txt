@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: [Your answer here]Statistics, Computer Science, and Mathematics. For example, data science can be used in statistics to map data sets to model/explain outcomes in sample spaces and even generate statistical graphics.
