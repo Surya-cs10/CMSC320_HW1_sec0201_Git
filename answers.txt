@@ -6,4 +6,8 @@ Answer: It is an open source version control system that allows us to control ve
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: [Your answer here]Statistics, Computer Science, and Mathematics. For example, data science can be used in statistics to map data sets to model/explain outcomes in sample spaces and even generate statistical graphics.
+Answer: Statistics, Computer Science, and Mathematics. For example, data science can be used in statistics to map data sets to model/explain outcomes in sample spaces and even generate statistical graphics.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merge combines a branch with the target branch through a commit and preserves the original commit history while the rebase also combines branches but it replays the feature branch's commits during the merge changing the commit history of the feature branch
