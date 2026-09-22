@@ -11,3 +11,7 @@ Answer: Statistics, Computer Science, and Mathematics. For example, data science
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: merge combines a branch with the target branch through a commit and preserves the original commit history while the rebase also combines branches but it replays the feature branch's commits during the merge changing the commit history of the feature branch
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning more about data science.
